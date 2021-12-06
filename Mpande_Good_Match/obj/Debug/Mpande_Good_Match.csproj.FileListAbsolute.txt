@@ -1,0 +1,8 @@
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\bin\Debug\Mpande_Good_Match.exe.config
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\bin\Debug\Mpande_Good_Match.exe
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\bin\Debug\Mpande_Good_Match.pdb
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\obj\Debug\Mpande_Good_Match.csproj.AssemblyReference.cache
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\obj\Debug\Mpande_Good_Match.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\obj\Debug\Mpande_Good_Match.csproj.CoreCompileInputs.cache
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\obj\Debug\Mpande_Good_Match.exe
+C:\Users\Zwivhuya\source\repos\Mpande_Good_Match\Mpande_Good_Match\obj\Debug\Mpande_Good_Match.pdb

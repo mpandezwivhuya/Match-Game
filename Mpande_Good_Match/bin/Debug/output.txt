@@ -1,0 +1,9 @@
+[lebo, lebo]: 100% :Good match
+[john, johm]: 75% :Not good match
+[freddy, mary]: 0% :Not good match
+[freddy, lebo]: 0% :Not good match
+[freddy, johm]: 0% :Not good match
+[john, mary]: 0% :Not good match
+[john, lebo]: 0% :Not good match
+[lebo, mary]: 0% :Not good match
+[lebo, johm]: 0% :Not good match

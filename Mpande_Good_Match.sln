@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mpande_Good_Match", "Mpande_Good_Match\Mpande_Good_Match.csproj", "{DB1DB8A5-701A-402C-BF99-9261EF069559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1DB8A5-701A-402C-BF99-9261EF069559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1DB8A5-701A-402C-BF99-9261EF069559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1DB8A5-701A-402C-BF99-9261EF069559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1DB8A5-701A-402C-BF99-9261EF069559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2F4D1A-35D9-45B1-9167-D6915FDFA466}
+	EndGlobalSection
+EndGlobal
